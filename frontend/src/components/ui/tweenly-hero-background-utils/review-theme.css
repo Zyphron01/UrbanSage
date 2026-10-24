@@ -1,0 +1,12 @@
+/* Scoped styling for Tweenly Hero Background component */
+[data-slot="hero-background"] {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+}
+
+[data-slot="hero-background"] canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}

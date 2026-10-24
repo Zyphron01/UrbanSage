@@ -1,0 +1,78 @@
+[
+  {
+    "id": "INT-001",
+    "name": "Urban Forest Plantation",
+    "category": "urban_forest",
+    "description": "Establishment of a 0.5-hectare urban forest patch including site preparation, native species planting (approx. 200 trees), irrigation setup, and a three-year post-planting maintenance period. Creates a continuous canopy layer that reduces the urban heat island effect, sequesters carbon, provides biodiversity habitat, and delivers minor stormwater retention.",
+    "unit_description": "One 0.5-hectare urban forest patch, including site preparation, planting, and three-year establishment maintenance.",
+    "cost_per_unit_lakh": 8.0,
+    "land_requirement_sqm_per_unit": 5000,
+    "maintenance_cost_annual_lakh": 1.2,
+    "implementation_months": 6,
+    "effectiveness": {
+      "heat_reduction": 72,
+      "flood_reduction": 32,
+      "water_stress_reduction": 38,
+      "carbon_reduction": 65
+    },
+    "effectiveness_assumption_notes": "Heat reduction score assumes 30% canopy coverage achieved within three years and reflects local microclimate cooling extrapolated from tropical urban forestry literature. Flood reduction is modest and reflects surface-runoff interception by leaf litter and root systems, not engineered drainage capacity. Water stress reduction reflects transpiration-driven humidity increase and minor groundwater recharge, not direct water supply. Carbon reduction is estimated at 2–4 tonnes CO2-equivalent per hectare per year for tropical species at assumed survival rates. All scores are on a relative 0–100 scale and are NOT absolute measurements. Real outcomes depend on species selection, soil conditions, rainfall, and maintenance quality. SYNTHETIC ESTIMATE — do not present as measured impact.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "id": "INT-002",
+    "name": "Extensive Green Roof",
+    "category": "green_roof",
+    "description": "Installation of an extensive green roof system on 500 sqm of flat commercial or residential rooftop. Includes a waterproof membrane, root barrier, drainage layer, engineered growing medium (80–120 mm depth), and drought-tolerant sedum/native vegetation. Reduces stormwater runoff peak, insulates the building, and decreases urban heat island intensity at the roof surface.",
+    "unit_description": "One 500-sqm extensive green roof installation on an existing flat rooftop, including all layers and vegetation establishment.",
+    "cost_per_unit_lakh": 12.0,
+    "land_requirement_sqm_per_unit": 500,
+    "maintenance_cost_annual_lakh": 1.8,
+    "implementation_months": 4,
+    "effectiveness": {
+      "heat_reduction": 55,
+      "flood_reduction": 48,
+      "water_stress_reduction": 18,
+      "carbon_reduction": 42
+    },
+    "effectiveness_assumption_notes": "Heat reduction reflects reduction in roof surface temperature and consequent building cooling load, extrapolated from published green roof thermal performance studies in hot climates. Flood reduction reflects assumed 25–35 mm stormwater retention capacity per 500 sqm during moderate rainfall events; effectiveness drops significantly in extreme rainfall. Water stress reduction is minimal because extensive green roofs do not harvest or reuse water. Carbon reduction is an indirect benefit from reduced air-conditioning energy demand, estimated using assumed cooling load reduction and grid emission factors. Structural load-bearing capacity of the host roof MUST be verified independently before deployment — this dataset does not include structural assessment data. All scores are on a relative 0–100 scale. SYNTHETIC ESTIMATE — do not present as measured impact.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "id": "INT-003",
+    "name": "Community Rainwater Harvesting System",
+    "category": "rainwater_harvesting",
+    "description": "Installation of a community-scale rainwater harvesting system comprising a 10,000-litre underground storage tank, first-flush diverter, particle filter, and a shared distribution point serving 50–100 households. Reduces dependency on the municipal water supply during the dry season and provides an emergency water buffer during supply disruptions.",
+    "unit_description": "One community rainwater harvesting system with 10,000-litre underground storage, first-flush diverter, and shared distribution point.",
+    "cost_per_unit_lakh": 5.0,
+    "land_requirement_sqm_per_unit": 50,
+    "maintenance_cost_annual_lakh": 0.5,
+    "implementation_months": 3,
+    "effectiveness": {
+      "heat_reduction": 12,
+      "flood_reduction": 28,
+      "water_stress_reduction": 82,
+      "carbon_reduction": 18
+    },
+    "effectiveness_assumption_notes": "Water stress reduction is the primary benefit, rated high because even a single 10,000-litre system can displace 15–20% of dry-season water demand for 50–100 households in the study context. Flood reduction reflects stormwater capture at the start of rainfall events; the 10,000-litre tank offers limited but non-zero peak-flow attenuation. Heat and carbon benefits are minor and indirect, reflecting marginal reductions in water pumping energy and evaporative cooling at collection surfaces. System yield depends critically on local rainfall intensity and duration, catchment area, tank maintenance, and community usage patterns — factors not captured in this synthetic dataset. All scores are on a relative 0–100 scale. SYNTHETIC ESTIMATE — do not present as measured impact.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "id": "INT-004",
+    "name": "Permeable Drainage Improvement",
+    "category": "drainage",
+    "description": "Upgrade of 500 metres of road and pavement drainage comprising permeable pavement sections, roadside bioswale installation, and storm drain enlargement or rehabilitation. Increases stormwater infiltration into the soil, reduces surface runoff velocity, and decreases peak flood discharge at downstream drainage points.",
+    "unit_description": "500-metre road drainage upgrade including permeable pavement, bioswale, and storm drain rehabilitation.",
+    "cost_per_unit_lakh": 20.0,
+    "land_requirement_sqm_per_unit": 2500,
+    "maintenance_cost_annual_lakh": 2.0,
+    "implementation_months": 8,
+    "effectiveness": {
+      "heat_reduction": 10,
+      "flood_reduction": 88,
+      "water_stress_reduction": 28,
+      "carbon_reduction": 14
+    },
+    "effectiveness_assumption_notes": "Flood reduction is the dominant benefit, rated very high because permeable pavements and enlarged drains directly address peak runoff and local waterlogging, which are the primary flood drivers in this urban context. Heat reduction is minor, reflecting reduced impervious surface area and bioswale evapotranspiration. Water stress reduction reflects groundwater recharge through increased infiltration, which can improve local well and bore yields but is not equivalent to additional piped supply. Carbon reduction reflects reduced stormwater pumping energy and concrete production savings from rehabilitating existing drains rather than full replacement. Effectiveness depends strongly on subsoil permeability, gradient, and the condition of downstream drainage networks. Costs are highly variable with ground conditions. All scores are on a relative 0–100 scale. SYNTHETIC ESTIMATE — do not present as measured impact.",
+    "data_source": "SYNTHETIC"
+  }
+]

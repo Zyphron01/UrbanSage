@@ -1,0 +1,282 @@
+[
+  {
+    "neighbourhood_id": "NBR-001",
+    "intervention_id": "INT-001",
+    "max_units": 2,
+    "feasibility_notes": "Two 0.5-ha forest sites are viable along the riverbank buffer zone set back from the embankment. Land beyond these sites is subject to seasonal inundation, making tree establishment unreliable.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-001",
+    "intervention_id": "INT-002",
+    "max_units": 6,
+    "feasibility_notes": "Six multi-storey residential apartment blocks have been identified with flat rooftops and sufficient load-bearing capacity for an extensive green roof. A detailed structural survey is required before procurement.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-001",
+    "intervention_id": "INT-003",
+    "max_units": 6,
+    "feasibility_notes": "Six community sites including school grounds, community halls, and housing society courtyards are suitable for 10,000-litre underground tank installation.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-001",
+    "intervention_id": "INT-004",
+    "max_units": 5,
+    "feasibility_notes": "Five 500-m road stretches have been identified with inadequate drainage and road widths sufficient for bioswale installation without land acquisition.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-002",
+    "intervention_id": "INT-001",
+    "max_units": 1,
+    "feasibility_notes": "One brownfield site adjacent to an inactive industrial plot is suitable for afforestation. Remaining land is occupied by active industrial use or contaminated land requiring remediation before planting.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-002",
+    "intervention_id": "INT-002",
+    "max_units": 7,
+    "feasibility_notes": "Seven large industrial warehouses and commercial buildings have large, flat, structurally sound rooftops with good access for construction. Largest single green roof opportunity in the study area after NBR-006.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-002",
+    "intervention_id": "INT-003",
+    "max_units": 5,
+    "feasibility_notes": "Five industrial and commercial premises with large rooftop catchment areas and space for underground tank installation in car parks and loading areas.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-002",
+    "intervention_id": "INT-004",
+    "max_units": 4,
+    "feasibility_notes": "Four road stretches adjacent to industrial zones have undersized drains. Road widths are adequate for bioswale retrofitting.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-003",
+    "intervention_id": "INT-001",
+    "max_units": 4,
+    "feasibility_notes": "Four plantation sites identified on peri-urban open land and road medians. Natural terrain gradient supports drainage from planted areas.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-003",
+    "intervention_id": "INT-002",
+    "max_units": 4,
+    "feasibility_notes": "Four residential buildings have suitable flat rooftops. Most structures are two-storey with pitched tile roofs, which are not suitable for green roofs without significant structural modification.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-003",
+    "intervention_id": "INT-003",
+    "max_units": 3,
+    "feasibility_notes": "Three community sites viable. Relatively low water stress limits urgency; RWH here is appropriate as a demonstration project rather than an emergency measure.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-003",
+    "intervention_id": "INT-004",
+    "max_units": 3,
+    "feasibility_notes": "Three road sections with minor drainage deficiencies. Elevated terrain provides natural drainage advantage; limited road sections require formal upgrading.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-004",
+    "intervention_id": "INT-001",
+    "max_units": 0,
+    "feasibility_notes": "Zero capacity. The Old Town Core is fully built-up with no open land available for urban forestry. Tree planting is restricted to individual street trees in constrained heritage-listed streetscapes, which does not meet the 0.5-ha plantation threshold for this intervention type.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-004",
+    "intervention_id": "INT-002",
+    "max_units": 8,
+    "feasibility_notes": "Eight dense residential and mixed-use blocks have been identified with flat rooftop areas. This is the highest per-neighbourhood green roof count, reflecting the high-rise character of the Old Town Core. Structural surveys are mandatory given the age of the buildings.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-004",
+    "intervention_id": "INT-003",
+    "max_units": 8,
+    "feasibility_notes": "Eight community sites including building society courtyards, a covered bazaar forecourt, and two schools. High population density makes each RWH system serve a large number of households.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-004",
+    "intervention_id": "INT-004",
+    "max_units": 3,
+    "feasibility_notes": "Three historic road sections have critically undersized Victorian-era stormwater drains. Road width constraints and heritage designations limit the extent of bioswale installation.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-005",
+    "intervention_id": "INT-001",
+    "max_units": 1,
+    "feasibility_notes": "One community green space site is available. Most land is occupied by informal housing with no clear public open space. The single available site is adjacent to the resettlement authority's community centre.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-005",
+    "intervention_id": "INT-002",
+    "max_units": 5,
+    "feasibility_notes": "Five government-built apartment blocks have flat concrete rooftops. A structural assessment is essential given the age and construction quality of some blocks. Green roofs here would directly benefit the most vulnerable households.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-005",
+    "intervention_id": "INT-003",
+    "max_units": 9,
+    "feasibility_notes": "Nine RWH sites identified including schools, primary health centres, community halls, and housing complexes. This neighbourhood has the second-highest RWH capacity and the highest water stress outside NBR-010. RWH is the single highest-priority intervention here.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-005",
+    "intervention_id": "INT-004",
+    "max_units": 4,
+    "feasibility_notes": "Four road stretches with chronic waterlogging in the dense informal grid. Road widths are narrow, limiting bioswale width, but drain enlargement is feasible on main access roads.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-006",
+    "intervention_id": "INT-001",
+    "max_units": 3,
+    "feasibility_notes": "Three plantation sites on campus margins, tech park buffer zones, and central road medians. The planned nature of this district allows for orderly site preparation.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-006",
+    "intervention_id": "INT-002",
+    "max_units": 8,
+    "feasibility_notes": "Eight large commercial tech park buildings with extensive, structurally robust flat rooftops. Maximum green roof capacity in the entire study area. Modern building standards make structural assessment straightforward.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-006",
+    "intervention_id": "INT-003",
+    "max_units": 4,
+    "feasibility_notes": "Four large commercial complexes with high rooftop catchment potential. Lower urgency given the relatively low water stress score, but systems here could supply non-potable water for campus irrigation and cooling towers.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-006",
+    "intervention_id": "INT-004",
+    "max_units": 6,
+    "feasibility_notes": "Six road stretches within the planned tech park road network. Wide planned carriageways make bioswale integration straightforward. This is a high-capacity, low-disruption implementation environment.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-007",
+    "intervention_id": "INT-001",
+    "max_units": 0,
+    "feasibility_notes": "Zero capacity. The Market District has fully built-up street frontage with continuous commercial shopfront. No open land is available that meets the minimum 5,000-sqm contiguous area required for a 0.5-ha plantation.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-007",
+    "intervention_id": "INT-002",
+    "max_units": 7,
+    "feasibility_notes": "Seven commercial market buildings with flat concrete rooftops. Mixed ownership structures and informal sub-tenancy may complicate procurement. Structural surveys and owner consent are mandatory pre-conditions.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-007",
+    "intervention_id": "INT-003",
+    "max_units": 7,
+    "feasibility_notes": "Seven community and commercial sites including a covered wholesale market yard, two schools, three temple forecourts, and one community hall. High population density multiplies the impact of each system.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-007",
+    "intervention_id": "INT-004",
+    "max_units": 4,
+    "feasibility_notes": "Four high-traffic commercial road stretches experience regular waterlogging during moderate rain. Drainage improvements here would benefit a very high footfall area. Construction must be phased around market trading hours.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-008",
+    "intervention_id": "INT-001",
+    "max_units": 3,
+    "feasibility_notes": "Three plantation sites on elevated levee bunds and embankment margins. Tree roots can reinforce bund stability. Sites below the seasonal flood line are excluded as tree establishment is unreliable under repeated inundation.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-008",
+    "intervention_id": "INT-002",
+    "max_units": 6,
+    "feasibility_notes": "Six multi-storey residential blocks identified with flat rooftops. Some buildings show signs of deferred maintenance; structural assessment is essential before proceeding.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-008",
+    "intervention_id": "INT-003",
+    "max_units": 8,
+    "feasibility_notes": "Eight community sites viable. Although flood risk is extreme, RWH systems installed above flood level can provide critical dry-season water security between monsoon events.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-008",
+    "intervention_id": "INT-004",
+    "max_units": 7,
+    "feasibility_notes": "Seven road stretches — the highest drainage improvement capacity in the study area, reflecting the severe need. The floodplain location means even well-designed local drainage must connect to a functioning regional outfall, which is a dependency outside this dataset's scope.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-009",
+    "intervention_id": "INT-001",
+    "max_units": 4,
+    "feasibility_notes": "Four plantation sites on university campus open land and residential park areas. University administration has expressed interest in green campus demonstration projects, which could reduce coordination costs.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-009",
+    "intervention_id": "INT-002",
+    "max_units": 6,
+    "feasibility_notes": "Six university and residential buildings with suitable flat rooftops. University buildings offer simple ownership structures and high coordination capacity compared with fragmented private ownership in other neighbourhoods.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-009",
+    "intervention_id": "INT-003",
+    "max_units": 5,
+    "feasibility_notes": "Five sites on university campus and residential complexes. A university-led RWH programme could serve as a training and demonstration asset for the wider city programme.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-009",
+    "intervention_id": "INT-004",
+    "max_units": 5,
+    "feasibility_notes": "Five road sections on campus and connecting arterial roads. Planned road widths provide adequate space for integrated bioswale design.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-010",
+    "intervention_id": "INT-001",
+    "max_units": 5,
+    "feasibility_notes": "Five plantation sites in the extensive peri-urban open land fringe. Largest urban forestry capacity in the study area. Land tenure must be confirmed with the municipal authority before site preparation.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-010",
+    "intervention_id": "INT-002",
+    "max_units": 3,
+    "feasibility_notes": "Three multi-storey residential blocks suitable for green roofs. Most housing stock in this peri-urban area consists of single-storey or two-storey structures with pitched asbestos or metal-sheet roofs, which are not viable without major structural intervention.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-010",
+    "intervention_id": "INT-003",
+    "max_units": 10,
+    "feasibility_notes": "Ten community RWH sites — the highest RWH capacity and the highest-priority single intervention in the entire study area. Extreme water stress combined with significant open land for tank installation makes RWH the most cost-effective intervention per unit of water-stress reduction in NBR-010.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "neighbourhood_id": "NBR-010",
+    "intervention_id": "INT-004",
+    "max_units": 5,
+    "feasibility_notes": "Five road stretches with underdeveloped drainage infrastructure typical of rapid informal urbanisation. Road widths vary, but four stretches have adequate space for bioswale installation without land acquisition.",
+    "data_source": "SYNTHETIC"
+  }
+]

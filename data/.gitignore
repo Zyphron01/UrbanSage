@@ -1,0 +1,37 @@
+# ==============================================================================
+# UrbanSage AI — Data Directory .gitignore
+# ==============================================================================
+# Prevent large or sensitive dataset dumps from being committed to version control.
+# Directory placeholders (.gitkeep) and markdown documentation remain tracked.
+
+# Ignore all data files in raw and processed directories
+raw/*
+processed/*
+external/*
+
+# Never ignore keep files or documentation
+!raw/.gitkeep
+!processed/.gitkeep
+!external/.gitkeep
+!metadata/.gitkeep
+!**/README.md
+!**/*.md
+
+# Common data file extensions to guard against accidental commits
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.nc
+*.geojson
+*.jsonl
+*.zip
+*.tar.gz
+*.7z
+
+# Always keep metadata and data dictionaries tracked
+!metadata/**

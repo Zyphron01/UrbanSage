@@ -1,0 +1,212 @@
+[
+  {
+    "id": "NBR-001",
+    "name": "Riverbank Colony",
+    "area_sqkm": 1.8,
+    "population": 42000,
+    "social_vulnerability_index": 72,
+    "heat_risk": 62,
+    "flood_risk": 88,
+    "water_stress": 32,
+    "current_green_cover_pct": 8,
+    "land_availability": {
+      "urban_forest_sqm": 12000,
+      "green_roof_sqm": 8000,
+      "rainwater_harvesting_sites": 6,
+      "drainage_sqm": 15000
+    },
+    "centroid_lat": 21.130,
+    "centroid_lon": 79.075,
+    "description": "A low-lying residential area adjacent to the city's main river. Extremely high flood risk during monsoon events due to insufficient embankment protection and aging stormwater infrastructure. High social vulnerability driven by below-average incomes and limited access to healthcare. Minimal existing green cover. A priority neighbourhood for both flood mitigation and equity-focused interventions.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "id": "NBR-002",
+    "name": "Industrial Quarter",
+    "area_sqkm": 3.2,
+    "population": 28000,
+    "social_vulnerability_index": 52,
+    "heat_risk": 85,
+    "flood_risk": 42,
+    "water_stress": 72,
+    "current_green_cover_pct": 5,
+    "land_availability": {
+      "urban_forest_sqm": 5000,
+      "green_roof_sqm": 18000,
+      "rainwater_harvesting_sites": 5,
+      "drainage_sqm": 12000
+    },
+    "centroid_lat": 21.110,
+    "centroid_lon": 79.118,
+    "description": "Established industrial and warehousing zone with a significant residential workforce population. Extremely high urban heat island effect driven by extensive impervious surfaces, industrial heat generation, and near-zero green cover. Moderate flood risk. High water stress from industrial demand competing with residential supply. Large flat industrial rooftops offer good green roof potential.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "id": "NBR-003",
+    "name": "Green Hills",
+    "area_sqkm": 2.5,
+    "population": 15000,
+    "social_vulnerability_index": 20,
+    "heat_risk": 28,
+    "flood_risk": 18,
+    "water_stress": 22,
+    "current_green_cover_pct": 42,
+    "land_availability": {
+      "urban_forest_sqm": 22000,
+      "green_roof_sqm": 5000,
+      "rainwater_harvesting_sites": 3,
+      "drainage_sqm": 8000
+    },
+    "centroid_lat": 21.172,
+    "centroid_lon": 79.062,
+    "description": "Peri-urban residential neighbourhood on elevated terrain. Naturally good drainage due to topography and significant existing green cover. Predominantly affluent population with low social vulnerability. Low risk across all environmental dimensions. Lower priority for equity interventions but represents a viable demonstration site for urban forestry expansion. May serve as a comparison baseline in scenario analysis.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "id": "NBR-004",
+    "name": "Old Town Core",
+    "area_sqkm": 1.2,
+    "population": 55000,
+    "social_vulnerability_index": 58,
+    "heat_risk": 82,
+    "flood_risk": 68,
+    "water_stress": 48,
+    "current_green_cover_pct": 6,
+    "land_availability": {
+      "urban_forest_sqm": 0,
+      "green_roof_sqm": 16000,
+      "rainwater_harvesting_sites": 8,
+      "drainage_sqm": 9000
+    },
+    "centroid_lat": 21.128,
+    "centroid_lon": 79.097,
+    "description": "Dense historic urban core with colonial-era street patterns and high residential and commercial density. High heat and moderate flood risk stem from near-total impervious cover and undersized aging stormwater drains. Fully built-up: no open land is available for tree plantation. Green roofs on multi-storey residential blocks and drainage upgrades on historic road sections are the only structurally feasible intervention types.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "id": "NBR-005",
+    "name": "Slum Resettlement Zone",
+    "area_sqkm": 0.8,
+    "population": 38000,
+    "social_vulnerability_index": 88,
+    "heat_risk": 90,
+    "flood_risk": 55,
+    "water_stress": 68,
+    "current_green_cover_pct": 3,
+    "land_availability": {
+      "urban_forest_sqm": 8000,
+      "green_roof_sqm": 6000,
+      "rainwater_harvesting_sites": 9,
+      "drainage_sqm": 10000
+    },
+    "centroid_lat": 21.098,
+    "centroid_lon": 79.088,
+    "description": "Highest social vulnerability in the study area. A dense informal settlement with minimal public green infrastructure, extremely high summer heat exposure, inadequate stormwater drainage, and unreliable piped water supply. The equity floor constraint makes this a mandatory high-priority neighbourhood. Rainwater harvesting has particularly high potential given the acute water stress. Community engagement will be critical for sustainable implementation.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "id": "NBR-006",
+    "name": "Tech Hub District",
+    "area_sqkm": 4.1,
+    "population": 22000,
+    "social_vulnerability_index": 15,
+    "heat_risk": 32,
+    "flood_risk": 22,
+    "water_stress": 28,
+    "current_green_cover_pct": 35,
+    "land_availability": {
+      "urban_forest_sqm": 15000,
+      "green_roof_sqm": 25000,
+      "rainwater_harvesting_sites": 4,
+      "drainage_sqm": 18000
+    },
+    "centroid_lat": 21.155,
+    "centroid_lon": 79.138,
+    "description": "Modern commercial and technology park area with relatively good planned infrastructure. Lowest social vulnerability in the study area. Daytime population significantly exceeds residential population due to office workers. Large flat commercial rooftops offer the highest green roof installation capacity in the city. Not a priority for equity-focused interventions but represents the most cost-efficient deployment environment for green roofs due to scale.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "id": "NBR-007",
+    "name": "Market District",
+    "area_sqkm": 1.5,
+    "population": 48000,
+    "social_vulnerability_index": 50,
+    "heat_risk": 78,
+    "flood_risk": 58,
+    "water_stress": 52,
+    "current_green_cover_pct": 7,
+    "land_availability": {
+      "urban_forest_sqm": 0,
+      "green_roof_sqm": 14000,
+      "rainwater_harvesting_sites": 7,
+      "drainage_sqm": 11000
+    },
+    "centroid_lat": 21.118,
+    "centroid_lon": 79.108,
+    "description": "Dense commercial market area with high daytime transient population. High urban heat and moderate flood risk. The fully built-up commercial street frontage makes tree plantation infeasible. Seven commercial buildings have been identified with green roof potential. Seven community RWH sites are viable in covered market yards. Drainage improvements are urgently needed on four high-traffic road stretches that experience regular waterlogging.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "id": "NBR-008",
+    "name": "Eastern Floodplain",
+    "area_sqkm": 2.8,
+    "population": 31000,
+    "social_vulnerability_index": 75,
+    "heat_risk": 48,
+    "flood_risk": 92,
+    "water_stress": 38,
+    "current_green_cover_pct": 12,
+    "land_availability": {
+      "urban_forest_sqm": 18000,
+      "green_roof_sqm": 9000,
+      "rainwater_harvesting_sites": 8,
+      "drainage_sqm": 20000
+    },
+    "centroid_lat": 21.088,
+    "centroid_lon": 79.072,
+    "description": "Low-lying floodplain neighbourhood with extreme seasonal flood risk — the highest in the study area. High social vulnerability among a largely lower-income residential population. Existing stormwater infrastructure is severely inadequate for peak monsoon flows. Drainage improvements and urban forest on levee bunds are the highest-priority interventions. The floodplain location limits some interventions but provides significant drainage improvement potential.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "id": "NBR-009",
+    "name": "University Township",
+    "area_sqkm": 3.5,
+    "population": 18000,
+    "social_vulnerability_index": 25,
+    "heat_risk": 38,
+    "flood_risk": 28,
+    "water_stress": 32,
+    "current_green_cover_pct": 38,
+    "land_availability": {
+      "urban_forest_sqm": 20000,
+      "green_roof_sqm": 12000,
+      "rainwater_harvesting_sites": 5,
+      "drainage_sqm": 14000
+    },
+    "centroid_lat": 21.162,
+    "centroid_lon": 79.115,
+    "description": "Educational and planned residential area with well-managed open space and moderate existing green cover. Low environmental risk and low social vulnerability. University open spaces provide excellent sites for urban forestry demonstration projects and student engagement programmes. Not a priority under the equity floor constraint but contributes positively to the city-wide environmental baseline when included in the optimised portfolio.",
+    "data_source": "SYNTHETIC"
+  },
+  {
+    "id": "NBR-010",
+    "name": "Peripheral Settlement",
+    "area_sqkm": 5.2,
+    "population": 35000,
+    "social_vulnerability_index": 68,
+    "heat_risk": 65,
+    "flood_risk": 52,
+    "water_stress": 82,
+    "current_green_cover_pct": 10,
+    "land_availability": {
+      "urban_forest_sqm": 25000,
+      "green_roof_sqm": 4000,
+      "rainwater_harvesting_sites": 10,
+      "drainage_sqm": 16000
+    },
+    "centroid_lat": 21.092,
+    "centroid_lon": 79.142,
+    "description": "Rapidly urbanising peri-urban settlement on the city periphery. The highest water stress in the study area due to limited piped network coverage and over-reliance on groundwater. High social vulnerability driven by economic precarity and inadequate services. Extensive open land is available for urban forestry and RWH at scale. Ten community RWH sites are identified as the single highest-impact intervention for immediate water-stress relief. Qualifies for the equity floor allocation.",
+    "data_source": "SYNTHETIC"
+  }
+]

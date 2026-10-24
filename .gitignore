@@ -1,0 +1,72 @@
+# ==============================
+# UrbanSage AI — .gitignore
+# ==============================
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+*.egg
+.eggs/
+site-packages/
+
+# --- Environment / secrets ---
+.env
+.env.local
+.env.*.local
+backend/.env
+backend/.env.local
+backend/.env.*.local
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+*.pem
+*.key
+*.db*
+*.db-*
+*.sqlite*
+
+# --- pytest / coverage ---
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+*.coveragerc
+
+# --- Node / frontend ---
+node_modules/
+.next/
+out/
+.turbo/
+frontend/.env
+frontend/.env.local
+
+# --- IDEs ---
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# --- OS ---
+desktop.ini
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Temporary / scratch ---
+*.tmp
+*.bak
+
+# --- AWS ---
+# Never commit AWS credentials
+.aws/credentials
